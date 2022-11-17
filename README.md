@@ -4,9 +4,9 @@
 > (c) Venkata Bhattaram
 
 Official GITHUB repository of tinitiate.com
-Professional IT Training for
+Professional IT Training
 
-Our customers include 
+Our Students
 * OPT (USA)
 * EAD (USA)
 * Freshers
