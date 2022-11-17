@@ -1,16 +1,14 @@
-### Hi there 👋
+![tinitiate.com](images/github_profile.png)
 
-<!--
-**tinitiate/tinitiate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# TINITIATE.COM
+> (c) Venkata Bhattaram
 
-Here are some ideas to get you started:
+Official GITHUB repository of tinitiate.com
+Professional IT Training for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our customers include 
+* OPT (USA)
+* EAD (USA)
+* Freshers
+* STEM Graduates
+* People seeking a career in IT
