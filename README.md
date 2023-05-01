@@ -19,6 +19,7 @@ We have trained and placed over 200 Students with verious STEM, IT and non-IT ba
 * People seeking a career in IT
 
 **Our Services**
+* Pre-screening of candiates on various parameters
 * Advanced professional IT Training
 * Interview Preparation
-* Professional Techincal Resume review and preparation
+* Professional Technical Resume review and preparation
