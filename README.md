@@ -1,4 +1,4 @@
-![tinitiate.com](images/logo_tinitiate.png)
+![tinitiate.com](images/tinitiate_fg_black_bg_white.png)
 
 # Professional IT Training > TINITIATE.COM
 > (c) Venkata Bhattaram / Team Tinitiate
