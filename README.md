@@ -1,7 +1,7 @@
 ![TINITIATE Logo](./github_tintiate_banner.png)
 <p align="center">&copy; TINITIATE.COM</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&width=600&lines=Welcome+To+Tinitiate+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&width=600&lines=TINITIATE+Accelerate+Innovation+—+Outsource+to+Us!)](https://git.io/typing-svg)
 
 # TINITIATE IT Professional Services <span style="color:red;">&#11166;</span>
 > 🎯 TINITIATE Accelerate Innovation — **Outsource to Us**
