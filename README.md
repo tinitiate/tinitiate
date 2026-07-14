@@ -3,19 +3,50 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&width=600&lines=Welcome+To+Tinitiate+GitHub!)](https://git.io/typing-svg)
 
-# Professional IT Services <span style="color:red;">&#11166;</span> TINITIATE
+# TINITIATE IT Professional Services <span style="color:red;">&#11166;</span>
+> 🎯 TINITIATE Accelerate Innovation — **Outsource to Us**
 
-## Venkata Bhattaram
+## Architecture, Development and DevOps, MLOps Services
+### Cloud
+* Azure Cloud Data Engineering Architecture, Development and DevOps
+* AWS Cloud Data Engineering Architecture, Development and DevOps
+* Snowflake Cloud Data Engineering Architecture, Development and DevOps
+* Databricks Cloud Data Engineering, Data Governance Architecture, Development and DevOps
 
-| 🎯 | TINITIATE | Accelerate Innovation — Outsource to Us |
+### Automation AI Agentic
+* Azure, AWS or Custom Platform, Agents, Agentic, Process Auotmation and Observability
+* Rapid Development, Deployment and Handover to your IT Teams
+* AI Training, Token - $ Cost - Streamlining GenAI pipelines
+* AI Automation Performance Tuning
+### Managed Services
+* Agentic Operations, Monitoring & Support
+* Human in the Loop Operations, Monitoring & Support
+
+#### Contact for Enquiries
+📞 +1 973 653 6870 🇺🇸
+📞 +91 95151 10398 🇮🇳
+📧 contact@tinitiate.com
+### Connect & Follow
+<a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
+
+
+## Core Team
+| ⚡️ | Venkata Bhattaram | Founder and Director  |
 |-----------|------|----------|
 | **Professional Services** | ☁️ Cloud Architecture & Development |  AWS, Azure, Snowflake, Databricks |
-|  | 🤖 AI Automation Architecture & Development | Agentic AI, RAG, MCP, LLM Applications |
+|  | 🤖 AI Automation Architecture & Development | Agentic AI, RAG, MCP, LLM, MLOps Applications |
 |  | ⚙️ Managed Services |  Operations, Monitoring & Support |
-| **Contact for Enquiries** | 📞 Phone | +1 973 653 6870 |
-|  | 📧 Email | venkata@tinitiate.com|
-| **Connect & Follow** | LinkedIn | <a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-|  | YouTube | <a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
+| **Contact for Enquiries** | 📞 +1 973 653 6870 |📧 venkata@tinitiate.com  |
+| **Connect & Follow** | <a href="https://wa.me/19736536870" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> | <a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
+
+| ⚓ | Jay Kumsi | Director |
+|-----------|------|----------|
+| **Professional Services** | ☁️ Cloud Architecture & Development |  AWS, Azure, Snowflake, Databricks |
+|  | 🤖 AI Automation Architecture & Development | Agentic AI, RAG, MCP, LLM, MLOps Applications |
+|  | ⚙️ Managed Services |  Operations, Monitoring & Support |
+| **Contact for Enquiries** | 📞 +1 973 653 6870 |📧 venkata@tinitiate.com  |
+| **Connect & Follow** | <a href="https://wa.me/19736536870" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> | <a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
+
 
 ## Tech Stacks
 ### 🤖 AUTOMATION AI ML
