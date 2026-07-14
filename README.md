@@ -11,7 +11,12 @@
 | Contact for Enquries  | IT Training |AZURE
 | Email venkata@tinitiateai.com |Software Development|SNOWFLAKE
 |||Automation / Agentic AI |
- 
+
+| Venkata Bhattaram | Cloud Architect | Services |
+venkata@tinitiateai.com
+<a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
