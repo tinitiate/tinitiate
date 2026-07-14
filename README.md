@@ -27,6 +27,8 @@
 📞 +91 95151 10398 🇮🇳
 📧 contact@tinitiate.com
 #### Connect & Follow
+<a href="https://wa.me/19736536870" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="https://github.com/tinitiate" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
 
 
@@ -37,7 +39,7 @@
 |  | 🤖 AI Automation Architecture & Development | Agentic AI, RAG, MCP, LLM, MLOps Applications |
 |  | ⚙️ Managed Services |  Operations, Monitoring & Support |
 | **Contact for Enquiries** | 📞 +1 973 653 6870 |📧 venkata@tinitiate.com  |
-| **Connect & Follow** | <a href="https://wa.me/19736536870" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> | <a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
+| **Connect & Follow** | <a href="https://wa.me/19736536870" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> | <a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="https://github.com/v-bhattaram" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> |
 
 | ⚓ | Jay Kumsi | Director |
 |-----------|------|----------|
