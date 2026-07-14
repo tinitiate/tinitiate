@@ -119,3 +119,13 @@ venkata@tinitiateai.com
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+
+
+
+---
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alwinw&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
