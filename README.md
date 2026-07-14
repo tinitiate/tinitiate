@@ -26,7 +26,7 @@
 📞 +1 973 653 6870 🇺🇸
 📞 +91 95151 10398 🇮🇳
 📧 contact@tinitiate.com
-### Connect & Follow
+#### Connect & Follow
 <a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
 
 
@@ -49,25 +49,13 @@
 
 
 ## Tech Stacks
-### 🤖 AUTOMATION AI ML
-<p>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/LangGraph-1C3C3C.svg?logo=langgraph&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/MCP-000000.svg?logo=anthropic&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/RAG-FF6B35.svg?logo=databricks&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/RAG-FF6B35?logo=vectorlogozone&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/CrewAI-6D28D9.svg?logo=crewai&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/OpenClaw-000000.svg?logo=github&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Bedrock-FF9900.svg?logo=amazonaws&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Azure%20AI%20Foundry-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Ollama-000000.svg?logo=ollama&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Anthropic-D97706.svg?logo=anthropic&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/LangSmith-1C3C3C.svg?logo=langchain&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Weaviate-00C7B7.svg?logo=weaviate&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Pinecone-14B8A6.svg?logo=pinecone&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Qdrant-DC244C.svg?logo=qdrant&logoColor=white"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Milvus-00B3A4.svg?logo=milvus&logoColor=white"></a>
-</p>
+| Services | Tech Stacks  |
+| 🤖 AUTOMATION AI ML |
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white"> </a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/LangGraph-1C3C3C.svg?logo=langgraph&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/MCP-000000.svg?logo=anthropic&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/RAG-FF6B35.svg?logo=databricks&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/RAG-FF6B35?logo=vectorlogozone&logoColor=white"></a>
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/CrewAI-6D28D9.svg?logo=crewai&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/OpenClaw-000000.svg?logo=github&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Bedrock-FF9900.svg?logo=amazonaws&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Azure%20AI%20Foundry-0078D4.svg?logo=microsoftazure&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Ollama-000000.svg?logo=ollama&logoColor=white"></a>
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Anthropic-D97706.svg?logo=anthropic&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/LangSmith-1C3C3C.svg?logo=langchain&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Weaviate-00C7B7.svg?logo=weaviate&logoColor=white"></a>
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Pinecone-14B8A6.svg?logo=pinecone&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Qdrant-DC244C.svg?logo=qdrant&logoColor=white"></a> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Milvus-00B3A4.svg?logo=milvus&logoColor=white"></a> |
+
 
 
 ### 👨‍💻 Programming and Markup Languages
